@@ -38,15 +38,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 <p align="center"> <img src="Test_images/sample.png" width="600"><br> <em>Figure 1: test predictions</em> </p> <br>
 
 **_Reference_**
-- Deep Learning appraoches for Head and Operculum Segmentation in Zebrafish Microscopy Images, Navdeep Kumar et. al. In the 19th International Conference on Computer Analysis of Images and Patterns (CAIP-2021)
+- UNCOVERING THE BONE STRUCTURES IN ZEBRAFISH LARVAE: A DEEP LEARNING APPROACH IN MICROSCOPY
 
 **Citation:**
-```bibtex
-@inproceedings{kumar2021deep,
-  title={Deep Learning Approaches for Head and Operculum Segmentation in Zebrafish Microscopy Images},
-  author={Kumar, Navdeep and Carletti, Alessio and Gavaia, Paulo J and Muller, Marc and Cancela, M Leonor and Geurts, Pierre and Mar{\'e}e, Rapha{\"e}l},
-  booktitle={International Conference on Computer Analysis of Images and Patterns},
-  pages={154--164},
-  year={2021},
-  organization={Springer}
-}
+(Coming soon)
