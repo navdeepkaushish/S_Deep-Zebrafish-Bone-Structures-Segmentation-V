@@ -1,7 +1,7 @@
 # S_Deep-Bone
 
 **Description:**
-A Deep Learning application module for segmenting the developing bone strucutres of Zebrafish Larvae
+A Deep Learning application for segmenting the developing bone strucutres of Zebrafish Larvae
 
 
 **Abstract (short)**
