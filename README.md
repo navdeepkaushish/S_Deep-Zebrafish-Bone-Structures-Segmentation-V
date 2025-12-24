@@ -30,7 +30,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 
 **CNN Architecture:**
 
-- Single output layer Unet for cropiing
+- Single output layer UNet for cropping
 - Multi-output layerd UNet for segmenting 25 various bone structures
 
 **Test Predictions**
