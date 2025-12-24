@@ -20,7 +20,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
   **Features**
 
   -Implementation of UNet based segmentation strategy for segmenting bone strucutres from the head of zebrafish larvae:
-    - UNet absed Multi-mask binary segmenation approach for bone strcture segmenation
+    - UNet based Multi-mask binary segmenation approach for bone strcture segmenation
     - Two types of loss functions are evaluated namely **Focal Loss** and **Bi-tempered Loss**
 
 **Dataset:**
