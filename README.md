@@ -38,7 +38,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 <p align="center"> <img src="Test_images/sample.png" width="600"><br> <em>Figure 1: test predictions</em> </p> <br>
 
 **_Reference_**
-- UNCOVERING THE BONE STRUCTURES IN ZEBRAFISH LARVAE: A DEEP LEARNING APPROACH IN MICROSCOPY
+- Uucovering the bone structures in Zebrafish Larvae: A Deep Learning Approach in Microscopy
 
 **Citation:**
 (Coming soon)
