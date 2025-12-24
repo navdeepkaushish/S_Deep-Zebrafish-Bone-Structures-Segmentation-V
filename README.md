@@ -10,9 +10,9 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 
 **_Repository Info_**
 - Test Images folder contains the test images, you may use 
-- Models folder contains the trained models directly used for testing
+- Models folder contains the trained models directly downloadable fron **Zenodo** used for testing
 - Model architecture is defined in unet_modified.py in src folder
-- Main file is run.py in src folder
+- Main file is run.py
 - All the supporting functions are written in src/utils.py
 - Custom _loss functions_ used in the models are written in src/loss_functions.py for **compiling the model**
 - Code is compatible with the open-source tool Cytomine ULiège R&D version (https://uliege.cytomine.org)
