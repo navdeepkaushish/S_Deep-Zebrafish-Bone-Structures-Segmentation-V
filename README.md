@@ -7,6 +7,7 @@ A Deep Learning application module for segmenting the developing bone strucutres
 **Abstract (short)**
 
 Missing structures or gaps in imaging data, whether due to imaging limitations, staining inconsistencies, or structural irregularities from mutations can hinder accurate assessment of bone phenotypes. Deep learning techniques, specifically in image segmentation, can offer promising solutions for identifying and even reconstructing missing and occluded bone structures in zebrafish larval images. Using a deep learning model for semantic segmentation can enable precise identification and segmentation of bone regions across microscopy images, even when parts of the structure are weak, faint or occluded. In this approach, we present a deep learning-based semantic segmentation approach to uncover the missing, weak, faint and overlapping bone structures from microscopy image dataset of 9-day post-fertilization (dpf) zebrafish larvae, acquired from **Ventral View**
+
 **_Repository Info_**
 - Test Images folder contains the test images, you may use 
 - Models folder contains the trained models directly used for testing
@@ -34,7 +35,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 
 **Test Predictions**
 
-<p align="center"> <img src="Test_images/sample.png" width="600"><br> <em>Figure 1: Example test prediction</em> </p> <br>
+<p align="center"> <img src="Test_images/sample.png" width="600"><br> <em>Figure 1: test predictions</em> </p> <br>
 
 **_Reference_**
 - Deep Learning appraoches for Head and Operculum Segmentation in Zebrafish Microscopy Images, Navdeep Kumar et. al. In the 19th International Conference on Computer Analysis of Images and Patterns (CAIP-2021)
