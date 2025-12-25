@@ -29,7 +29,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 - 192 brightfield microscopy images of zebrafish larvae in **Ventral View**
 - 117 brightfield microscopy images of zebrafish larvae in **Lateral View**
 
-<p align="center"> <img src="Test_images/dataset_sample.png" width="700"><br> <em>Figure 1: test predictions</em> </p> <br>
+<p align="center"> <img src="Test_images/dataset_sample.png" width="700"><br> <em>Figure 1: Dataset Sample and Annotations</em> </p> <br>
 
 **CNN Architecture:**
 
