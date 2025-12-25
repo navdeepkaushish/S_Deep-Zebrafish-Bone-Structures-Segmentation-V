@@ -26,7 +26,10 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 **Dataset:**
 
 - Zebrafish lavae (10 dpf) as model fish species
-- 113 brightfield microscopy images of zebrafish larvae in **Ventral View**
+- 192 brightfield microscopy images of zebrafish larvae in **Ventral View**
+- 117 brightfield microscopy images of zebrafish larvae in **Lateral View**
+
+<p align="center"> <img src="Test_images/dataset_sample.png" width="700"><br> <em>Figure 1: test predictions</em> </p> <br>
 
 **CNN Architecture:**
 
@@ -35,7 +38,7 @@ Missing structures or gaps in imaging data, whether due to imaging limitations, 
 
 **Test Predictions**
 
-<p align="center"> <img src="Test_images/sample.png" width="600"><br> <em>Figure 1: test predictions</em> </p> <br>
+<p align="center"> <img src="Test_images/sample.png" width="700"><br> <em>Figure 2: test predictions</em> </p> <br>
 
 **_Reference_**
 - Uncovering the bone structures in Zebrafish Larvae: A Deep Learning Approach in Microscopy
