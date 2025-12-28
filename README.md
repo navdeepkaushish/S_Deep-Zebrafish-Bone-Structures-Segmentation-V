@@ -6,11 +6,11 @@ A Deep Learning application for segmenting the developing bone strucutres of Zeb
 
 **Abstract (short)**
 
-Missing structures or gaps in imaging data, whether due to imaging limitations, staining inconsistencies, or structural irregularities from mutations can hinder accurate assessment of bone phenotypes. Deep learning techniques, specifically in image segmentation, can offer promising solutions for identifying and even reconstructing missing and occluded bone structures in zebrafish larval images. Using a deep learning model for semantic segmentation can enable precise identification and segmentation of bone regions across microscopy images, even when parts of the structure are weak, faint or occluded. In this approach, we present a deep learning-based semantic segmentation approach to uncover the missing, weak, faint and overlapping bone structures from microscopy image dataset of 9-day post-fertilization (dpf) zebrafish larvae, acquired from **Ventral View**
+Missing structures or gaps in imaging data, whether due to imaging limitations, staining inconsistencies, or structural irregularities from mutations can hinder accurate assessment of bone phenotypes. Deep learning techniques, specifically in image segmentation, can offer promising solutions for identifying and even reconstructing missing and occluded bone structures in zebrafish larval images. Using a deep learning model for semantic segmentation can enable precise identification and segmentation of bone regions across microscopy images, even when parts of the structure are weak, faint or occluded. In this approach, we present a deep learning-based semantic segmentation approach to uncover the missing, weak, faint and overlapping bone structures from microscopy image dataset of 9-day post-fertilization (dpf) zebrafish larvae, acquired from **Ventral View** and **Lateral View**.
 
 **_Repository Info_**
 - Test Images folder contains the test images, you may use 
-- Models folder contains the trained models directly downloadable fron **Zenodo** used for testing
+- Models folder contains the trained models directly downloadable from **Zenodo** used for testing
 - Model architecture is defined in unet_modified.py in src folder
 - Main file is run.py
 - All the supporting functions are written in src/utils.py
